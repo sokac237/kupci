@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="10/31/2012 08:11:21" ReportInfo.Modified="10/25/2013 11:30:16" ReportInfo.CreatorVersion="1.4.19.0">
+  <Dictionary>
+    <TableDataSource Name="Koverte" ReferenceName="Data.Koverte" DataType="System.Int32" Enabled="true">
+      <Column Name="Ime" DataType="System.String"/>
+      <Column Name="Prezime" DataType="System.String"/>
+      <Column Name="Adresa" DataType="System.String"/>
+      <Column Name="Posta" DataType="System.String"/>
+      <Column Name="Mjesto" DataType="System.String"/>
+    </TableDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" RawPaperSize="9">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2"/>
+    <PageHeaderBand Name="PageHeader1" Top="4" Width="718.2"/>
+    <DataBand Name="Data1" Top="8" Width="239.4" Height="128.52" DataSource="Koverte" Columns.Count="3">
+      <TextObject Name="Text1" Left="18.9" Top="28.35" Width="236.25" Height="18.9" Text="[Koverte.Ime] [Koverte.Prezime] " Font="Arial, 12pt"/>
+      <TextObject Name="Text2" Left="18.9" Top="56.7" Width="236.25" Height="18.9" Text="[Koverte.Adresa]" Font="Arial, 12pt"/>
+      <TextObject Name="Text4" Left="18.9" Top="85.05" Width="56.7" Height="18.9" Text="[Koverte.Posta]" Font="Arial, 12pt"/>
+      <TextObject Name="Text5" Left="75.6" Top="85.05" Width="179.55" Height="18.9" Text="[Koverte.Mjesto]" Font="Arial, 12pt"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="140.52" Width="718.2"/>
+  </ReportPage>
+</Report>

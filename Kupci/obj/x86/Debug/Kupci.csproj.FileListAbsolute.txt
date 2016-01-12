@@ -1,0 +1,42 @@
+H:\Kupci\Kupci\bin\Debug\Kupci.exe.config
+H:\Kupci\Kupci\bin\Debug\Kupci.exe
+H:\Kupci\Kupci\bin\Debug\Kupci.pdb
+H:\Kupci\Kupci\bin\Debug\MySql.Data.dll
+H:\Kupci\Kupci\bin\Debug\FastReport.MySQL.pdb
+H:\Kupci\Kupci\bin\Debug\SX.xml
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmStavkeRacuna.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmSms.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmSplash.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmZalkart.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmObracun.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmProdajaArtik.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmProdajaRG.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmRacuni.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmRodjendan.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmRangLista.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmIzradaKartice.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmDjecaPregled.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmDodatniKup.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmIzmjenaKup.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmTransakcije.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmZahtjeviDjeca.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmDjeca.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmZahtjevi.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmGlavna.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmKupci.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmNoviKup.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmLogin.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.Properties.Resources.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.exe.licenses
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.exe
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.pdb
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmDetalji.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmDjelatnici.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.frmDjecaGodina.resources
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.csprojResolveAssemblyReference.cache
+H:\Kupci\Kupci\obj\x86\Debug\Kupci.csproj.GenerateResource.Cache
+h:\Kupci\Kupci\bin\Debug\FastReport.MySQL.dll
+h:\Kupci\Kupci\bin\Debug\SX.dll
+C:\Users\Ivan\Dropbox\C# projekti\Kupci\Kupci\bin\Debug\Kupci.exe.config
+C:\Users\Ivan\Dropbox\C# projekti\Kupci\Kupci\obj\x86\Debug\Kupci.exe
+C:\Users\Ivan\Dropbox\C# projekti\Kupci\Kupci\obj\x86\Debug\Kupci.pdb

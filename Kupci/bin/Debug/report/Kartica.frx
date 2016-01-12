@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="10/31/2012 08:11:21" ReportInfo.Modified="07/30/2013 12:38:54" ReportInfo.CreatorVersion="1.4.19.0">
+  <Dictionary>
+    <TableDataSource Name="Kupci" ReferenceName="Data.Kupci" DataType="System.Int32" Enabled="true">
+      <Column Name="Broj kartice" DataType="System.String"/>
+      <Column Name="Prezime" DataType="System.String"/>
+      <Column Name="Ime" DataType="System.String"/>
+    </TableDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" RawPaperSize="9" LeftMargin="5" TopMargin="5" RightMargin="5" BottomMargin="0">
+    <ReportTitleBand Name="ReportTitle1" Width="756"/>
+    <PageHeaderBand Name="PageHeader1" Top="4" Width="756"/>
+    <DataBand Name="Data1" Top="8" Width="756" Height="204.12" DataSource="Kupci">
+      <BarcodeObject Name="Barcode1" Left="198.45" Top="9.45" Width="83.75" Height="56.7" DataColumn="Kupci.Broj kartice" Barcode="EAN8"/>
+      <TextObject Name="Text1" Left="94.5" Top="103.95" Width="179.55" Height="18.9" Text="[Kupci.Ime]" Font="Arial, 12pt"/>
+      <TextObject Name="Text3" Left="94.5" Top="126.63" Width="179.55" Height="18.9" Text="[Kupci.Prezime]" Font="Arial, 12pt"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="216.12" Width="756"/>
+  </ReportPage>
+</Report>
